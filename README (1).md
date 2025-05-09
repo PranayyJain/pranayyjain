@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Pranay Jain 👋</h1>
+<h1 align="center">Pranay Jain here :) 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Lifelong Learner</h3>
 
 <p align="center">
@@ -77,14 +77,6 @@
 - 📫 [pranayjain010@gmail.com](mailto:pranayjain010@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pranay-jain-1254a5258/)  
 - 📍 Location: Indore, India  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranayjain&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranayjain&theme=radical" />
-</p>
 
 ---
 
