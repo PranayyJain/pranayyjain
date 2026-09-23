@@ -41,5 +41,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranayyJain&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777777" alt="Pranay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PranayyJain&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777777&cache_seconds=86400&v=1" alt="Pranay's GitHub Stats" />
 </p>
