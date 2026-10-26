@@ -37,7 +37,7 @@
 
 ### 💼 Professional Experience
 
-**Ethara.AI** | *Software Development Engineer - AI* `Sept 2026 – Present`
+**Ethara.AI** | *Software Development Engineer - AI* `Sept 2025 – Present`
 > Curating complex SFT datasets and deploying advanced evaluation protocols for LLM safety alignment and specialized domain accuracy.
 
 **Torsor Labs** | *Data Intern*
